@@ -75,6 +75,8 @@
 				 <br>
 	             <h1 ALIGN=center> MIGUEL ANGEL LOPEZ MARTINEZ</h1>
 				 <br>
+				 <h1 ALIGN=center> PRACTICA 3</h1>
+				 <br>
 	             <h1 ALIGN=center> LENGUAJE DE PROGRAMACION VISUAL </h1>
 				 </font>
 		</p>
